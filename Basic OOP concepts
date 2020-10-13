@@ -4,4 +4,14 @@ OOPS concepts to be used in drupal 8 development:
 2. Use statement: Its used to import a particular class inside your current working file, it helps as with class all the functions/objects are also imported
 3. class can be aliased in PHP,
 4. Dependency Injection: This concept helps us to remove hardcoded dependencies/ change the dependencies during runtime 
-    DI, concept is helpful when creating and using services. services are inside--> service container. 
+    DI, concept is helpful when creating and using services. services are inside --> service container. 
+    
+5. Annotations: These are comments in the files which give us meta information about the plugins. These saves memory, read by parsers.
+6. 
+
+
+
+-------------
+Design Patterns used in Drupal
+-------------
+

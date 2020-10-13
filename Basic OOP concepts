@@ -1,0 +1,7 @@
+OOPS concepts to be used in drupal 8 development:
+
+1: Namespaces: Namespaces give a small space to php classes inside a file. This takes care of problem that no two classes can have same name, also saves memory
+2. Use statement: Its used to import a particular class inside your current working file, it helps as with class all the functions/objects are also imported
+3. class can be aliased in PHP,
+4. Dependency Injection: This concept helps us to remove hardcoded dependencies/ change the dependencies during runtime 
+    DI, concept is helpful when creating and using services. services are inside--> service container. 
